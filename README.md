@@ -30,7 +30,7 @@ However it's not always like that. In IE6:
 ```javascript
 document.body.attachEvent('onclick', function() {
     alert('User clicked somewhere on the page');
-})l
+});
 
 ```
 
@@ -132,7 +132,7 @@ We can use all the css selectors, plus a bunch of cool things like `:not(:disabl
 
 When it comes to events jQuery is very handy (especially when you need support for old browsers):
 
-```
+```javascript
 $('.post').click(function() {
     alert('Hey');
 });
