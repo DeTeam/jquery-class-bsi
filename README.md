@@ -164,3 +164,8 @@ Some useful links:
 * http://jqueryui.com/
 * + all of the subdomains of jquery.com website (docs, try-site, learn, etc.)
 * http://visionmedia.github.io/move.js/ — run CSS3 animations from javascript
+* http://www.lokeshdhakar.com/projects/lightbox2/?u=9
+
+Email: timur.deteam@gmail.com
+Twitter: @TimurAmirov 
+
